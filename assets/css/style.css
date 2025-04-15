@@ -255,18 +255,14 @@ body {
     color: #E0AAFF;
 }
 
+
+/* Mejoras en el footer */
 footer {
-    background-color: #240046;
-    height: 70px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border-top: 1px solid rgba(157, 78, 221, 0.2);
 }
 
 .footer-desc {
-    color: #9D4EDD;
-    font-weight: bold;
-    font-size: 1.3em;
+    letter-spacing: 0.5px;
 }
 
 
